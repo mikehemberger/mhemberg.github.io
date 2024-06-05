@@ -1,0 +1,43 @@
+body {
+    background-color: #fff;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h5 {
+    color: #000;
+}
+
+.navbar {
+    margin-bottom: 2rem;
+}
+
+.section-title {
+    margin-bottom: 2rem;
+}
+
+.card-deck .card {
+    border: none;
+}
+
+.card-title {
+    color: #000;
+}
+
+.card-text {
+    color: #666;
+}
+
+.btn-dark {
+    background-color: #333;
+    border: none;
+}
+
+.btn-dark:hover {
+    background-color: #555;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 1rem 0;
+}
